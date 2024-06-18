@@ -3,9 +3,6 @@ package view;
 import Domain.Dealer;
 import Domain.Participant;
 import Domain.Player;
-import Domain.TrumpCard;
-
-import java.util.Arrays;
 import java.util.List;
 
 public class outputView {
